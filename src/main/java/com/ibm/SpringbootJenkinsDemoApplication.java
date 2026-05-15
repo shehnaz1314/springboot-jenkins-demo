@@ -8,6 +8,7 @@ public class SpringbootJenkinsDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJenkinsDemoApplication.class, args);
+		
 	}
 
 }
