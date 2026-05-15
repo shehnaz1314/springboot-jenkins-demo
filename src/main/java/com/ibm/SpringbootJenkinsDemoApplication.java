@@ -14,7 +14,6 @@ public class SpringbootJenkinsDemoApplication  extends SpringBootServletInitiali
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJenkinsDemoApplication.class, args);
-		System.out.println("Git with Jenkins Demo....");
 	}
 
 }
